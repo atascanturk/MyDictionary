@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\bin\Debug\netcoreapp3.1\DictionaryStructure.exe
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\bin\Debug\netcoreapp3.1\DictionaryStructure.deps.json
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\bin\Debug\netcoreapp3.1\DictionaryStructure.runtimeconfig.json
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\bin\Debug\netcoreapp3.1\DictionaryStructure.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\bin\Debug\netcoreapp3.1\DictionaryStructure.dll
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\bin\Debug\netcoreapp3.1\DictionaryStructure.pdb
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.AssemblyInfo.cs
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.dll
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.pdb
+C:\Users\hasan\source\repos\DictionaryStructure\DictionaryStructure\obj\Debug\netcoreapp3.1\DictionaryStructure.genruntimeconfig.cache
